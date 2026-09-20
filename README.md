@@ -1,5 +1,5 @@
 python -m pip install pygame 
-install this pakage before run 
+- install this pakage before run 
 
 
 
