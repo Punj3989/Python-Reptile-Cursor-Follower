@@ -1,3 +1,8 @@
+python -m pip install pygame 
+install this pakage before run 
+
+
+
 # 🦎 Animated Reptile Following Cursor
 
 An interactive Python animation where a green reptile smoothly follows your 
@@ -29,7 +34,6 @@ all in a single file.
 > swinging its legs as it moves. Its eyes follow your mouse and its tongue 
 > flicks out every second.
 
-*(Add a GIF or screenshot here once you record it)*
 
 ---
 
